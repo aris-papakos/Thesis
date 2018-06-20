@@ -1,0 +1,12 @@
+
+#First install 'oai-harvest' from 'https://github.com/bloomonkey/oai-harvest'. 
+
+
+#Run one the following commands on terminal to download the metadata 
+of a certain arxiv's category.
+
+1)oai-harvest --set physics http://export.arxiv.org/oai2
+
+2)oai-harvest --set math http://export.arxiv.org/oai2
+
+
